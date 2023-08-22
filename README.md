@@ -7,8 +7,7 @@ Group Project:
 Write a function that produces output according to a format.                        
                                                                                     
                                                                                     
-1. Education is when you read the fine print. Experience is what you get if you don'
-t                                                                                   
+1. Education is when you read the fine print. Experience is what you get if you don't                                                                                   
 Handle the following conversion specifiers:
 
 2. With a face like mine, I do better in print                                      
@@ -54,8 +53,7 @@ Handle the - flag character for non-custom conversion specifiers.
 13. Print is the sharpest and the strongest weapon of our party                     
 Handle the following custom conversion specifier:                                   
                                                                                     
-14. The flood of print has turned reading into a process of gulping rather than savo
-ring                                                                                
+14. The flood of print has turned reading into a process of gulping rather than savoring                                                                                
 Handle the following custom conversion specifier:                                   
                                                                                     
 15. *                                                                               
